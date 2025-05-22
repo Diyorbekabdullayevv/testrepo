@@ -3,7 +3,8 @@ package main
 // import "fmt"
 
 // func main() {
-
+// 	data := "Trim"
+// 	fmt.Println(data)
 // 	fmt.Println(factorial(4))
 
 // }
