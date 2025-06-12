@@ -51,5 +51,5 @@ func printLetters() {
 
 func doWork() error {
 	time.Sleep(1 * time.Second)
-	return fmt.Errorf("something went wrong!")
+	return fmt.Errorf("something went wrong")
 }
