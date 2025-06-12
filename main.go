@@ -8,7 +8,10 @@ func main() {
 	// advanced.WorkWithChannels()
 	// advanced.WorkWithUnBufChans()
 	// advanced.WorkWithBufChansAll()
-	advanced.WorkWithChanSync()
+	// advanced.WorkWithChanSync()
+	// advanced.WorkWithChannelDirections()
+	advanced.WorkWithMultiplexingSelect()
+
 
 
 }

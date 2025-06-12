@@ -87,5 +87,4 @@ func WorkWithChanSync4() {
   for value := range data {
     fmt.Println("Recieved value:", value, ":", time.Now())
   }
-
 }
