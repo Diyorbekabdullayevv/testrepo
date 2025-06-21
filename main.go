@@ -10,8 +10,15 @@ func main() {
 	// advanced.WorkWithBufChansAll()
 	// advanced.WorkWithChanSync()
 	// advanced.WorkWithChannelDirections()
-	advanced.WorkWithMultiplexingSelect()
-
-
-
+	// advanced.WorkWithMultiplexingSelect()
+	// advanced.WorkWithNonBlockingChannelOperations()
+	// advanced.WorkWithClosingChannels()
+	// advanced.WorkWithContect()
+	// advanced.WorkWithTimer()
+	// advanced.WorkWithTickers()
+	// advanced.WorkWithWorkerPools()
+	// advanced.WorkWithWaitGroups()
+	// advanced.WorkWithMutexes()
+	// advanced.WorkWithAtomicCounters()
+	advanced.WorkWithRateLimiting()
 }
